@@ -3,6 +3,7 @@
 ## 3D Maze
 
 3 dimensional maze using AI techniques to find the shortest path.
+
 Algorithms involove:
 > Breadth-first search (BFS)
 
